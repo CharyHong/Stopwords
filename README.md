@@ -2,8 +2,10 @@
 
 | 词表名 | 词表文件 |
 | - | - |
-| 中文停用词表                   | cn\_stopwords.txt    |
-| 哈工大停用词表                 | hit\_stopwords.txt   |
-| 百度停用词表                   | baidu\_stopwords.txt |
-| 四川大学机器智能实验室停用词库 | scu\_stopwords.txt   |
-
+| 哈工大停用词表              | stopwords\_hit.txt    |
+| 百度停用词表                | stopwords\_baidu.txt  |
+| 四川大学停用词表            | stopwords\_scu.txt    |
+| 汇总的中文停用词表          | stopwords\_cn.txt     |
+| 常用的英文停用词表          | stopwords\_english.txt|
+| 汇总的中英文停用词表        | stopwords\_full.txt   |
+| 其他语言的停用词表          | OtherLanguage         |
